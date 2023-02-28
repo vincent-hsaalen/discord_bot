@@ -1,6 +1,4 @@
-﻿# just another useless discord bot by @vincent-hsaalen
-
-***
+# just another useless discord bot by @vincent-hsaalen
 
 ## in development / work in progress
 
